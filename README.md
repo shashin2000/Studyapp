@@ -2,7 +2,7 @@
 
 A simple and user-friendly desktop application built with Python and Tkinter. This tool is designed to help students organize and manage their online class materials, such as PDF notes and video recordings, which are often scattered across platforms like WhatsApp.
 
-![App Screenshot](https://i.imgur.com/Screenshot-2025-07-30-214209.png)
+![App Screenshot](https://drive.google.com/file/d/11BZUI5IdFfoMLW7mULfFtMng4B2TMTdc/view?usp=drive_link)
 
 ## 🌟 Features
 
@@ -20,9 +20,9 @@ A simple and user-friendly desktop application built with Python and Tkinter. Th
 
 ## 🚀 How to Use
 
-1.  **Download the Code**: Download the `class_manager_final.py` file to your computer.
+1.  **Download the Code**: Download the `ADITHAALAMA_CLASS_HANDLE.py` file to your computer.
 2.  **Run the Application**: Open a terminal or command prompt, navigate to the folder where you saved the file, and run the following command:
     ```bash
-    python class_manager_final.py
+   ADITHAALAMA_CLASS_HANDLE.py
     ```
 3.  **Start Organizing**: The application will launch. Start adding your classes and materials! A `class_data_v2.json` file will be automatically created in the same directory to store your data.
